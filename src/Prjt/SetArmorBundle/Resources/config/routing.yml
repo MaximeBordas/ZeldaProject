@@ -1,0 +1,3 @@
+set_armor_homepage:
+    path:     /
+    defaults: { _controller: SetArmorBundle:Default:index }
